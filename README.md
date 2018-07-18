@@ -72,7 +72,8 @@ The following table briefly explains what each plugin does; you can click on the
   </tr>
 </table>
 
-**Disclaimer:** autotrack is maintained by members of the Google Analytics developer platform team and is primarily intended for a developer audience. It is not an official Google Analytics product and does not qualify for Google Analytics 360 support. Developers who choose to use this library are responsible for ensuring that their implementation meets the requirements of the [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html) and the legal obligations of their respective country.
+**Disclaimer:** Members of Google Analytics developer platform team maintain autotrack which is intended for a developer audience. It is not an official Google Analytics product and does not qualify for Google Analytics 360 support. Developers using this library are responsible for ensuring that implementation meets the requirements of the [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html) and the legal obligations of their respective country.
+
 
 ## Installation and usage
 
